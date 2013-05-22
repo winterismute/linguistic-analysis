@@ -1,0 +1,204 @@
+@drinkingquest you would n't kill a policeman 
+   Recognized as: police killed by somebody
+   TYPE: ACTIVE - OBJECT
+
+auto thieves kill another policeman http://t.co/jcnfucv7yk 
+   Recognized as: police killed by somebody
+   TYPE: ACTIVE - OBJECT
+
+policeman soldiers are killed its 
+   Recognized as: police killed somebody
+   TYPE: ACTIVE - SUBJECT
+
+policeman killed 
+   Recognized as: police killed somebody
+   TYPE: PASSIVE - SUBJECT - CHUNK
+
+policeman killed 
+   Recognized as: police killed somebody
+   TYPE: PASSIVE - SUBJECT - CHUNK
+
+no the young policeman got killed in ripper street 😔 
+   Recognized as: police killed somebody
+   TYPE: ACTIVE - SUBJECT
+
+policeman killed 
+   Recognized as: police killed somebody
+   TYPE: PASSIVE - SUBJECT - CHUNK
+
+policeman killed 
+   Recognized as: police killed somebody
+   TYPE: PASSIVE - SUBJECT - CHUNK
+
+policeman killed 
+   Recognized as: police killed somebody
+   TYPE: PASSIVE - SUBJECT - CHUNK
+
+#hazara policeman killed 
+   Recognized as: police killed somebody
+   TYPE: PASSIVE - SUBJECT - CHUNK
+
+policeman killed 
+   Recognized as: police killed somebody
+   TYPE: PASSIVE - SUBJECT - CHUNK
+
+policeman killed 
+   Recognized as: police killed somebody
+   TYPE: PASSIVE - SUBJECT - CHUNK
+
+policeman killed 
+   Recognized as: police killed somebody
+   TYPE: PASSIVE - SUBJECT - CHUNK
+
+policeman killed 
+   Recognized as: police killed somebody
+   TYPE: PASSIVE - SUBJECT - CHUNK
+
+policeman killed 
+   Recognized as: police killed somebody
+   TYPE: PASSIVE - SUBJECT - CHUNK
+
+policeman killed 
+   Recognized as: police killed somebody
+   TYPE: PASSIVE - SUBJECT - CHUNK
+
+policeman killed in hanover 
+   Recognized as: police killed somebody
+   TYPE: ACTIVE - SUBJECT
+
+policeman killed in hanover http://t.co/ogg8n04zjf 
+   Recognized as: police killed somebody
+   TYPE: ACTIVE - SUBJECT
+
+policeman killed in attack 
+   Recognized as: police killed somebody
+   TYPE: ACTIVE - SUBJECT
+
+policeman killed 
+   Recognized as: police killed somebody
+   TYPE: PASSIVE - SUBJECT - CHUNK
+
+of police killed by bh 
+   Recognized as: police killed somebody
+   TYPE: ACTIVE - SUBJECT
+
+policeman killed in attack 
+   Recognized as: police killed somebody
+   TYPE: ACTIVE - SUBJECT
+
+7 police #afg policeman killed 
+   Recognized as: police killed somebody
+   TYPE: PASSIVE - SUBJECT - CHUNK
+
+7 police #afg policeman killed 
+   Recognized as: police killed somebody
+   TYPE: PASSIVE - SUBJECT - CHUNK
+
+two policemen killed 
+   Recognized as: police killed somebody
+   TYPE: PASSIVE - SUBJECT - CHUNK
+
+two policemen killed 
+   Recognized as: police killed somebody
+   TYPE: PASSIVE - SUBJECT - CHUNK
+
+bangkok posttwo policemen killed 
+   Recognized as: police killed somebody
+   TYPE: PASSIVE - SUBJECT - CHUNK
+
+two policemen killed 
+   Recognized as: police killed somebody
+   TYPE: PASSIVE - SUBJECT - CHUNK
+
+two policemen killed 
+   Recognized as: police killed somebody
+   TYPE: PASSIVE - SUBJECT - CHUNK
+
+@alancolmes off-duty policeman killed 
+   Recognized as: police killed somebody
+   TYPE: PASSIVE - SUBJECT - CHUNK
+
+@sykesticparker tell the policeman she killed me and we 
+   Recognized as: police killed somebody
+   TYPE: ACTIVE - SUBJECT
+
+that policeman was gonna get killed like 
+   Recognized as: police killed somebody
+   TYPE: PASSIVE - SUBJECT - CHUNK
+
+gunmen killed a policeman 
+   Recognized as: police killed by somebody
+   TYPE: ACTIVE - OBJECT
+
+mit policeman sean collier was killed 
+   Recognized as: police killed somebody
+   TYPE: PASSIVE - SUBJECT - CHUNK
+
+one tribal policeman was killed 
+   Recognized as: police killed somebody
+   TYPE: PASSIVE - SUBJECT - CHUNK
+
+a policeman was killed 
+   Recognized as: police killed somebody
+   TYPE: PASSIVE - SUBJECT - CHUNK
+
+gunmen have killed a policeman 
+   Recognized as: police killed by somebody
+   TYPE: ACTIVE - OBJECT
+
+@etribune policeman killed in attack 
+   Recognized as: police killed somebody
+   TYPE: ACTIVE - SUBJECT
+
+@etribune policeman killed in attack 
+   Recognized as: police killed somebody
+   TYPE: ACTIVE - SUBJECT
+
+policeman killed in attack 
+   Recognized as: police killed somebody
+   TYPE: ACTIVE - SUBJECT
+
+policeman killed in attack 
+   Recognized as: police killed somebody
+   TYPE: ACTIVE - SUBJECT
+
+policeman killed in attack 
+   Recognized as: police killed somebody
+   TYPE: ACTIVE - SUBJECT
+
+policeman killed in attack 
+   Recognized as: police killed somebody
+   TYPE: ACTIVE - SUBJECT
+
+policeman killed in attack 
+   Recognized as: police killed somebody
+   TYPE: ACTIVE - SUBJECT
+
+protests chanting kill the british police ect 
+   Recognized as: police killed by somebody
+   TYPE: ACTIVE - OBJECT
+
+them kill them and police 
+   Recognized as: police killed by somebody
+   TYPE: ACTIVE - OBJECT
+
+raul killed all the police officers 
+   Recognized as: police killed by somebody
+   TYPE: ACTIVE - OBJECT
+
+police shoulda killed em 
+   Recognized as: police killed somebody
+   TYPE: ACTIVE - SUBJECT
+
+hofstra student accidentally killed by police 
+   Recognized as: police killed by somebody
+   TYPE: ACTIVE - OBJECT
+
+this cunt was killed by police 
+   Recognized as: police killed by somebody
+   TYPE: ACTIVE - OBJECT
+
+police should have killed them 
+   Recognized as: police killed somebody
+   TYPE: ACTIVE - SUBJECT
+
